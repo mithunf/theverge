@@ -1,6 +1,5 @@
 
 $(document).ready(function(){
-    var flag=true;
     $(".nav").click(function(){
         $("#mySidenav").show("fast");
         $(".nav-closepad").show();
